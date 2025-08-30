@@ -15,3 +15,10 @@ Dieses Projekt enthält ein **Jupyter Notebook** zur Analyse von Daten und zur V
 Installiere die benötigten Python-Pakete:
 ```bash
 pip install -r requirements.txt
+
+## Autoren
+Dieses Projekt wurde entwickelt von:
+
+- Ahmed Chouchane ([GitHub](https://github.com/HugePandaCoder))
+- Ahmed Yassine Frih ([GitHub](https://github.com/yasssine19))
+- Mohamed Amine Loussaief ([GitHub](https://github.com/thered-keep))
