@@ -15,7 +15,7 @@ Dieses Projekt enthält ein **Jupyter Notebook** zur Analyse von Daten und zur V
 Installiere die benötigten Python-Pakete:
 ```bash
 pip install -r requirements.txt
-
+```
 ---
 
 ## Autoren
